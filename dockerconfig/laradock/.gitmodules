@@ -1,0 +1,3 @@
+[submodule "mysql/docker-mysql-5.7"]
+	path = mysql/docker-mysql-5.7
+	url = https://github.com/cytopia/docker-mysql-5.7
