@@ -1,2 +1,0 @@
-*.sh
-!init_jupyterhub_db.sh
