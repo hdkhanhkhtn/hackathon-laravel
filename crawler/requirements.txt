@@ -1,0 +1,10 @@
+setuptools
+wheel
+Django==1.9.4
+gunicorn==19.6.0
+psycopg2
+scrapy
+scrapyd
+python-scrapyd-api
+pyasn1-modules
+mysqlclient
