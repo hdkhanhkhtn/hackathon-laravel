@@ -1,3 +1,6 @@
 [submodule "crawler"]
 	path = crawler
 	url = https://github.com/hdkhanhkhtn/news-crawler.git
+[submodule "public/webapp"]
+	path = public/webapp
+	url = https://github.com/hdkhanhkhtn/JDFNews.git
