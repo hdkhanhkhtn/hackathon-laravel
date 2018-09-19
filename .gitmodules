@@ -4,3 +4,6 @@
 [submodule "public/webapp"]
 	path = public/webapp
 	url = https://github.com/hdkhanhkhtn/JDFNews.git
+[submodule "docker-compose"]
+	path = docker-compose
+	url = https://github.com/hdkhanhkhtn/docker-compose.git
